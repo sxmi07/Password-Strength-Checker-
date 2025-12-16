@@ -1,8 +1,10 @@
 # Password Strength Checker 💪🔐
-
-
-
 Welcome to the Password Strength Checker project! This powerful tool is designed to help you assess the strength of your passwords and ensure your online security.
+
+
+![image alt](https://github.com/sxmi07/Password-Strength-Checker-/blob/ecd443706824751326c85b2a86d9fc772dcd606f/WhatsApp%20Image%202025-12-16%20at%209.26.04%20AM.jpeg)
+
+
 
 ## Project Purpose 📋
 
