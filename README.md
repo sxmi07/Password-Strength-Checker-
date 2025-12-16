@@ -20,10 +20,10 @@ We've used industry-standard design tools to create an intuitive and visually ap
 
 ## Project Live Location 🌐
 
-You can access the live version of this project at [Password Strength Checker](https://password-strength.vercel.app/). Try it out and enhance your password security!
+You can access the live version of this project at [Password Strength Checker](https://deluxe-duckanoo-e05797.netlify.app/). Try it out and enhance your password security!
 
 📧 **Get in Touch**
-For inquiries, collaboration, or just to say hello, reach out to us at 📩 swamithedev@gmail.com.
+For inquiries, collaboration, or just to say hello, reach out to us at 📩 samikhan.369 and mohammedsamikhan99@gmail.com
 
 🌟 **Portfolio**
 Discover more of our fantastic projects at sxmi07 github Your journey into the world of technology starts here!
