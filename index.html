@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Password Strength Checker</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h2>Password Strength</h2>
+
+    <div class="inputArea">
+      <input type="password" id="YourPassword" placeholder="Enter your password">
+      <div class="show"></div>
+      <div class="strengthMeter"></div>
+    </div>
+
+    <ul class="rules">
+      <li id="len">✔ Minimum 8 characters</li>
+      <li id="upper">✔ Uppercase letter</li>
+      <li id="number">✔ Number</li>
+      <li id="symbol">✔ Special character</li>
+    </ul>
+
+    <div class="actions">
+      <button id="generate">Generate</button>
+      <button id="copy">Copy</button>
+    </div>
+
+    <div class="footer">
+      <a href="https://github.com/sxmi07" target="_blank">
+        <i class="fab fa-github"></i> sxmi07
+      </a>
+      <a href="https://instagram.com/samikhan.369" target="_blank">
+        <i class="fab fa-instagram"></i> samikhan.369
+      </a>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
