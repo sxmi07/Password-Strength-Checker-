@@ -22,7 +22,18 @@ We've used industry-standard design tools to create an intuitive and visually ap
 You can access the live version of this project at [Password Strength Checker](https://deluxe-duckanoo-e05797.netlify.app/). Try it out and enhance your password security!
 
 📧 **Get in Touch**
-For inquiries, collaboration, or just to say hello, reach out to us at 📩 samikhan.369 and mohammedsamikhan99@gmail.com
+For inquiries, collaboration, or just to say hello, reach out to us at 📩 samikhan.369 and mohammedsamikhan99@gmail.com\
+password-strength-checker/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── images/
+│   │   └── (project screenshots / icons)
+│   └── icons/
+├── README.md
+└── .gitignore
+
 
 🌟 **Portfolio**
 Discover more of our fantastic projects at sxmi07 github Your journey into the world of technology starts here!
