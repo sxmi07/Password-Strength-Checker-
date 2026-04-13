@@ -23,16 +23,6 @@ You can access the live version of this project at [Password Strength Checker](h
 
 📧 **Get in Touch**
 For inquiries, collaboration, or just to say hello, reach out to us at 📩 samikhan.369 and mohammedsamikhan99@gmail.com\
-password-strength-checker/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   │   └── (project screenshots / icons)
-│   └── icons/
-├── README.md
-└── .gitignore
 
 
 🌟 **Portfolio**
@@ -49,4 +39,16 @@ We appreciate you taking the time to explore our Password Strength Checker proje
 ## Hashtags 📌
 
 \#PasswordStrength #Security #PasswordChecker #OnlineSecurity #WebDevelopment #CyberSecurity #TechProject #PasswordSafety #PasswordGenerator
+
+password-strength-checker/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── images/
+│   │   └── (project screenshots / icons)
+│   └── icons/
+├── README.md
+└── .gitignore
+
 
